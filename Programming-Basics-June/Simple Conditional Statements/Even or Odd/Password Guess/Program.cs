@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace Metric_Converter
+namespace Password_Guess
 {
     class Program
     {
         static void Main(string[] args)
         {
             string password = Console.ReadLine();
-            if (password=="s3cr3t!P@ssw0rd")
+            if (password == "s3cr3t!P@ssw0rd")
             {
                 Console.WriteLine("Welcome");
             }

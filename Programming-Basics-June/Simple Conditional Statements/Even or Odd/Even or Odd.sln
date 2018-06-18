@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Seconds", "Sum Seconds\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metric Converter", "Metric Converter\Metric Converter.csproj", "{20571B87-8DA9-4D88-94F0-6B51ED83B8E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password Guess", "Password Guess\Password Guess.csproj", "{21A8F551-61CD-44C5-948A-04E80748B7FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{20571B87-8DA9-4D88-94F0-6B51ED83B8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20571B87-8DA9-4D88-94F0-6B51ED83B8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20571B87-8DA9-4D88-94F0-6B51ED83B8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A8F551-61CD-44C5-948A-04E80748B7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A8F551-61CD-44C5-948A-04E80748B7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A8F551-61CD-44C5-948A-04E80748B7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A8F551-61CD-44C5-948A-04E80748B7FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
