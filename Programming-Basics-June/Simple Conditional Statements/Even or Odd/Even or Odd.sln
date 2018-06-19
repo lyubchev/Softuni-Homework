@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even or Odd", "Even or Odd\Even or Odd.csproj", "{32DE8807-05D1-4E97-B875-8DF8C16B9B1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Even or Odd", "Even or Odd\Even or Odd.csproj", "{32DE8807-05D1-4E97-B875-8DF8C16B9B1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greater Number", "Greater Number\Greater Number.csproj", "{CB96927C-120A-4F7E-927C-7495BE472928}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greater Number", "Greater Number\Greater Number.csproj", "{CB96927C-120A-4F7E-927C-7495BE472928}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 to 9 to Text", "1 to 9 to Text\1 to 9 to Text.csproj", "{99DA0A14-CF00-455B-8C4C-CF640CA20A7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 to 9 to Text", "1 to 9 to Text\1 to 9 to Text.csproj", "{99DA0A14-CF00-455B-8C4C-CF640CA20A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus Score", "Bonus Score\Bonus Score.csproj", "{DF101BED-B587-4E67-B43B-D59AB584E064}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bonus Score", "Bonus Score\Bonus Score.csproj", "{DF101BED-B587-4E67-B43B-D59AB584E064}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Seconds", "Sum Seconds\Sum Seconds.csproj", "{F5FD25DE-0F52-42AF-8BD8-78A55BCB0DFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum Seconds", "Sum Seconds\Sum Seconds.csproj", "{F5FD25DE-0F52-42AF-8BD8-78A55BCB0DFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metric Converter", "Metric Converter\Metric Converter.csproj", "{20571B87-8DA9-4D88-94F0-6B51ED83B8E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metric Converter", "Metric Converter\Metric Converter.csproj", "{20571B87-8DA9-4D88-94F0-6B51ED83B8E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password Guess", "Password Guess\Password Guess.csproj", "{21A8F551-61CD-44C5-948A-04E80748B7FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Password Guess", "Password Guess\Password Guess.csproj", "{21A8F551-61CD-44C5-948A-04E80748B7FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number between 100 200", "Number between 100 200\Number between 100 200.csproj", "{21757454-7BB8-4459-9BE0-AC68B40575A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{21A8F551-61CD-44C5-948A-04E80748B7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21A8F551-61CD-44C5-948A-04E80748B7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21A8F551-61CD-44C5-948A-04E80748B7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21757454-7BB8-4459-9BE0-AC68B40575A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21757454-7BB8-4459-9BE0-AC68B40575A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21757454-7BB8-4459-9BE0-AC68B40575A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21757454-7BB8-4459-9BE0-AC68B40575A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
