@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number between 100 200", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal Words", "Equal Words\Equal Words.csproj", "{C3CB1B44-E6C2-4EE8-9C86-9D9C8C49A1C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speed Info", "Speed Info\Speed Info.csproj", "{EB330384-37EB-4875-A1C9-F2B8B77FBE85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C3CB1B44-E6C2-4EE8-9C86-9D9C8C49A1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3CB1B44-E6C2-4EE8-9C86-9D9C8C49A1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3CB1B44-E6C2-4EE8-9C86-9D9C8C49A1C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB330384-37EB-4875-A1C9-F2B8B77FBE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB330384-37EB-4875-A1C9-F2B8B77FBE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB330384-37EB-4875-A1C9-F2B8B77FBE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB330384-37EB-4875-A1C9-F2B8B77FBE85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
