@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Password Guess", "Password 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number between 100 200", "Number between 100 200\Number between 100 200.csproj", "{21757454-7BB8-4459-9BE0-AC68B40575A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal Words", "Equal Words\Equal Words.csproj", "{C3CB1B44-E6C2-4EE8-9C86-9D9C8C49A1C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{21757454-7BB8-4459-9BE0-AC68B40575A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21757454-7BB8-4459-9BE0-AC68B40575A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21757454-7BB8-4459-9BE0-AC68B40575A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3CB1B44-E6C2-4EE8-9C86-9D9C8C49A1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CB1B44-E6C2-4EE8-9C86-9D9C8C49A1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CB1B44-E6C2-4EE8-9C86-9D9C8C49A1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CB1B44-E6C2-4EE8-9C86-9D9C8C49A1C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
