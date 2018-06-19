@@ -12,7 +12,6 @@ namespace Area_of_Figures
                 case "square":
                     double a = double.Parse(Console.ReadLine());
                     Console.WriteLine(a * a);
-                    
                     break;
                 case "rectangle":
                     a = double.Parse(Console.ReadLine());
@@ -21,12 +20,12 @@ namespace Area_of_Figures
                     break;
                 case "circle":
                     a = double.Parse(Console.ReadLine());
-                    Console.WriteLine(Math.PI * a*a);
+                    Console.WriteLine(Math.PI * a * a);
                     break;
                 case "triangle":
                     a = double.Parse(Console.ReadLine());
                     b = double.Parse(Console.ReadLine());
-                    Console.WriteLine((a*b)/2);
+                    Console.WriteLine((a * b) / 2);
                     break;
                 default:
                     break;
