@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For-Loop", "For-Loop\For-Loop.csproj", "{43850BF7-7A47-442B-B79E-E2C7D36ECED5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "From 1 to 100", "For-Loop\From 1 to 100.csproj", "{43850BF7-7A47-442B-B79E-E2C7D36ECED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers Ending in 7", "Numbers Ending in 7\Numbers Ending in 7.csproj", "{30BB0C79-09C9-4557-8495-817177D16123}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{43850BF7-7A47-442B-B79E-E2C7D36ECED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43850BF7-7A47-442B-B79E-E2C7D36ECED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43850BF7-7A47-442B-B79E-E2C7D36ECED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BB0C79-09C9-4557-8495-817177D16123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BB0C79-09C9-4557-8495-817177D16123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BB0C79-09C9-4557-8495-817177D16123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BB0C79-09C9-4557-8495-817177D16123}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
