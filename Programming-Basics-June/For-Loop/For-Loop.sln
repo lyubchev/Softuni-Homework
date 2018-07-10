@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers Ending in 7", "Numb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latin Letters", "Latin Letters\Latin Letters.csproj", "{9D8765EB-E428-49CD-B1B2-EFBB0746B89E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Numbers", "Sum Numbers\Sum Numbers.csproj", "{2E52D779-80B1-4A72-A561-734D567F4BD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9D8765EB-E428-49CD-B1B2-EFBB0746B89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D8765EB-E428-49CD-B1B2-EFBB0746B89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D8765EB-E428-49CD-B1B2-EFBB0746B89E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E52D779-80B1-4A72-A561-734D567F4BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E52D779-80B1-4A72-A561-734D567F4BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E52D779-80B1-4A72-A561-734D567F4BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E52D779-80B1-4A72-A561-734D567F4BD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
