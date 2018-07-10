@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Half Sum Element", "Half Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd or Even Position", "Odd or Even Position\Odd or Even Position.csproj", "{22F7DB80-A52C-47CC-A6F2-3990E7983585}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualPairs", "EqualPairs\EqualPairs.csproj", "{5198271A-A66A-4B5C-84A1-0E3763FA00D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{22F7DB80-A52C-47CC-A6F2-3990E7983585}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F7DB80-A52C-47CC-A6F2-3990E7983585}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F7DB80-A52C-47CC-A6F2-3990E7983585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5198271A-A66A-4B5C-84A1-0E3763FA00D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5198271A-A66A-4B5C-84A1-0E3763FA00D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5198271A-A66A-4B5C-84A1-0E3763FA00D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5198271A-A66A-4B5C-84A1-0E3763FA00D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
