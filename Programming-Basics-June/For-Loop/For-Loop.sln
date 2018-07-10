@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd Even Sum", "Odd Even Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowels Sum", "Vowels Sum\Vowels Sum.csproj", "{EC16BF71-764D-4CDE-B974-3D89B69A88EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Days Sum", "Days Sum\Days Sum.csproj", "{71F773C1-0311-4E36-85F5-4B220395BBFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{EC16BF71-764D-4CDE-B974-3D89B69A88EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC16BF71-764D-4CDE-B974-3D89B69A88EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC16BF71-764D-4CDE-B974-3D89B69A88EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F773C1-0311-4E36-85F5-4B220395BBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F773C1-0311-4E36-85F5-4B220395BBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F773C1-0311-4E36-85F5-4B220395BBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F773C1-0311-4E36-85F5-4B220395BBFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
