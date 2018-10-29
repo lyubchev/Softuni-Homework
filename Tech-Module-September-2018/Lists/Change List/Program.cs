@@ -16,7 +16,6 @@ namespace Change_List
             {
                 int num = int.Parse(command.Split()[1]);
                 int index = command.Split().Length == 3 ? int.Parse(command.Split()[2]) : -1;
-
                 if (command.StartsWith("Insert"))
                 {
                     if (index >= 0)
