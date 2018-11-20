@@ -11,7 +11,7 @@ namespace String_and_Text_Processing
             var inputs = Console.ReadLine()
             .Split(new string[] { ", " }, StringSplitOptions.RemoveEmptyEntries);
 
-            
+
             string pattern = @"^\b[A-Za-z0-9_-]{3,16}$";
             Regex reg = new Regex(pattern);
             var validInputs = new List<string>();
